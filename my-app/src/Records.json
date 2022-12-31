@@ -1,0 +1,50 @@
+{
+    "name" : "Aryan",
+    "email" : "aryan@aryan.com",
+    "shortbio" : "curious developer",
+    "Education" : [
+        {
+            "Institute" : "Upenn",
+            "degree" : "law",
+            "start" : "feb",
+            "end" : "mar",
+            "description" : "super"
+        },
+        {
+            "Institute" : "Upenn",
+            "degree" : "law",
+            "start" : "feb",
+            "end" : "mar",
+            "description" : "super"
+        }
+    ],
+    "Achievements" : [
+        {
+            "title" : "Gold",
+            "date" : "feb",
+            "description" : "noble"
+        },
+        {
+            "title" : "Gold",
+            "date" : "feb",
+            "description" : "noble"
+        }
+    ],
+    "WorkExperience" : [
+        {
+            "company" : "toddle",
+            "role" : "frontend dev",
+            "start" : "feb",
+            "end" : "dec",
+            "description" : "great"
+        },
+        {
+            "company" : "toddle",
+            "role" : "frontend dev",
+            "start" : "feb",
+            "end" : "dec",
+            "description" : "great"
+        }       
+    ],
+    "img" : null
+}

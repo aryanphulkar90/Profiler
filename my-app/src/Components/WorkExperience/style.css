@@ -1,0 +1,46 @@
+.upper{
+    height: 72px;
+}
+
+.middle{
+    height: 318px;
+    display: flex;
+}
+
+.photo{
+    margin-top: 40px;
+    margin-left: 110px;
+    width : 174px;
+    height : 174px;
+}
+
+.ellipse {
+    background-color : wheat;
+    border-radius: 174px;
+    width : 174px;
+    height : 174px;
+}
+
+.upload-btn{
+    background-color: rgb(40, 144, 235);
+    margin-left: 13px;
+    margin-top: -103px;
+    height : 32px;
+    width: 147px;
+}
+
+.NE{
+    margin-left: 64px;
+    margin-top: 40px;
+}
+
+.SB{
+    margin-top: 40px;
+    margin-left: 64px;
+}
+
+.lower{
+    margin-top: 47px;
+    margin-left: 56px;
+}
+
